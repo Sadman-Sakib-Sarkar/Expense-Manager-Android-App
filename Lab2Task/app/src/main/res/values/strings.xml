@@ -1,9 +1,0 @@
-<resources>
-    <string name="app_name">Lab2Task</string>
-    <string name="find">Search Phones</string>
-    <string-array name="spinner">
-        <item>Samsung</item>
-        <item>Apple</item>
-        <item>Xiaomi</item>
-    </string-array>
-</resources>
