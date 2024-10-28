@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorAccent">#e7ea10</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="dasboard_color">#FF9B6309</color>
+    <color name="date_color">#FF270648</color>
+    <color name="expense_ammount_color">#FFEC1D06</color>
+    <color name="expense_color">#FF6C042E</color>
+    <color name="income_coloer">#FF240740</color>
+    <color name="nav_header">#FFEAA00C</color>
+    <color name="toolbar_color">#FFAEF509</color>
+    <string name="app_name">ExpenseManager</string>
+    <string name="gcm_defaultSenderId" translatable="false">697140478277</string>
+    <string name="google_api_key" translatable="false">AIzaSyBPwat6CJFqBqxPcT06860wcGTjXQmM6t0</string>
+    <string name="google_app_id" translatable="false">1:697140478277:android:613db339c49c15f725fe2c</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBPwat6CJFqBqxPcT06860wcGTjXQmM6t0</string>
+    <string name="google_storage_bucket" translatable="false">expense-manager-52c68.appspot.com</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="project_id" translatable="false">expense-manager-52c68</string>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+
+        <item name="drawerArrowStyle">@style/DrawerIconStyle</item>
+
+    </style>
+    <style name="Base.Theme.ExpenseManager" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="DrawerIconStyle" parent="Widget.AppCompat.DrawerArrowToggle">
+        <item name="color">@android:color/white</item>
+    </style>
+    <style name="Theme.ExpenseManager" parent="Base.Theme.ExpenseManager"/>
+</resources>

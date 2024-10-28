@@ -1,0 +1,170 @@
+[
+    {
+        "merged": "com.example.expensemanager.app-debug-45:/layout_activity_reseat.xml.flat",
+        "source": "com.example.expensemanager.app-main-47:/layout/activity_reseat.xml"
+    },
+    {
+        "merged": "com.example.expensemanager.app-debug-45:/layout_appbar_layout.xml.flat",
+        "source": "com.example.expensemanager.app-main-47:/layout/appbar_layout.xml"
+    },
+    {
+        "merged": "com.example.expensemanager.app-debug-45:/layout_custom_layout_for_insertdata.xml.flat",
+        "source": "com.example.expensemanager.app-main-47:/layout/custom_layout_for_insertdata.xml"
+    },
+    {
+        "merged": "com.example.expensemanager.app-debug-45:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.expensemanager.app-main-47:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.expensemanager.app-debug-45:/layout_fragment_income.xml.flat",
+        "source": "com.example.expensemanager.app-main-47:/layout/fragment_income.xml"
+    },
+    {
+        "merged": "com.example.expensemanager.app-debug-45:/layout_expense_recycler_data.xml.flat",
+        "source": "com.example.expensemanager.app-main-47:/layout/expense_recycler_data.xml"
+    },
+    {
+        "merged": "com.example.expensemanager.app-debug-45:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.expensemanager.app-main-47:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.expensemanager.app-debug-45:/layout_content_main.xml.flat",
+        "source": "com.example.expensemanager.app-main-47:/layout/content_main.xml"
+    },
+    {
+        "merged": "com.example.expensemanager.app-debug-45:/layout_activity_registration.xml.flat",
+        "source": "com.example.expensemanager.app-main-47:/layout/activity_registration.xml"
+    },
+    {
+        "merged": "com.example.expensemanager.app-debug-45:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.expensemanager.app-main-47:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.expensemanager.app-debug-45:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.expensemanager.app-main-47:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.expensemanager.app-debug-45:/anim_fade_close.xml.flat",
+        "source": "com.example.expensemanager.app-main-47:/anim/fade_close.xml"
+    },
+    {
+        "merged": "com.example.expensemanager.app-debug-45:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.expensemanager.app-main-47:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.expensemanager.app-debug-45:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.expensemanager.app-main-47:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.expensemanager.app-debug-45:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.expensemanager.app-main-47:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.expensemanager.app-debug-45:/menu_bottommenu.xml.flat",
+        "source": "com.example.expensemanager.app-main-47:/menu/bottommenu.xml"
+    },
+    {
+        "merged": "com.example.expensemanager.app-debug-45:/drawable_income.png.flat",
+        "source": "com.example.expensemanager.app-main-47:/drawable/income.png"
+    },
+    {
+        "merged": "com.example.expensemanager.app-debug-45:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.expensemanager.app-main-47:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.expensemanager.app-debug-45:/drawable_edittext_background.xml.flat",
+        "source": "com.example.expensemanager.app-main-47:/drawable/edittext_background.xml"
+    },
+    {
+        "merged": "com.example.expensemanager.app-debug-45:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.expensemanager.app-main-47:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.expensemanager.app-debug-45:/layout_update_data_item.xml.flat",
+        "source": "com.example.expensemanager.app-main-47:/layout/update_data_item.xml"
+    },
+    {
+        "merged": "com.example.expensemanager.app-debug-45:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.expensemanager.app-main-47:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.expensemanager.app-debug-45:/layout_fragment_expense.xml.flat",
+        "source": "com.example.expensemanager.app-main-47:/layout/fragment_expense.xml"
+    },
+    {
+        "merged": "com.example.expensemanager.app-debug-45:/drawable_dashboard.png.flat",
+        "source": "com.example.expensemanager.app-main-47:/drawable/dashboard.png"
+    },
+    {
+        "merged": "com.example.expensemanager.app-debug-45:/layout_dashboard_income.xml.flat",
+        "source": "com.example.expensemanager.app-main-47:/layout/dashboard_income.xml"
+    },
+    {
+        "merged": "com.example.expensemanager.app-debug-45:/drawable_background_color.xml.flat",
+        "source": "com.example.expensemanager.app-main-47:/drawable/background_color.xml"
+    },
+    {
+        "merged": "com.example.expensemanager.app-debug-45:/anim_fade_open.xml.flat",
+        "source": "com.example.expensemanager.app-main-47:/anim/fade_open.xml"
+    },
+    {
+        "merged": "com.example.expensemanager.app-debug-45:/layout_dashboart_expense.xml.flat",
+        "source": "com.example.expensemanager.app-main-47:/layout/dashboart_expense.xml"
+    },
+    {
+        "merged": "com.example.expensemanager.app-debug-45:/layout_nav_header.xml.flat",
+        "source": "com.example.expensemanager.app-main-47:/layout/nav_header.xml"
+    },
+    {
+        "merged": "com.example.expensemanager.app-debug-45:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.expensemanager.app-main-47:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.expensemanager.app-debug-45:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.expensemanager.app-main-47:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.expensemanager.app-debug-45:/xml_backup_rules.xml.flat",
+        "source": "com.example.expensemanager.app-main-47:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.expensemanager.app-debug-45:/layout_fragment_dash_board.xml.flat",
+        "source": "com.example.expensemanager.app-main-47:/layout/fragment_dash_board.xml"
+    },
+    {
+        "merged": "com.example.expensemanager.app-debug-45:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.expensemanager.app-main-47:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.expensemanager.app-debug-45:/layout_activity_main.xml.flat",
+        "source": "com.example.expensemanager.app-main-47:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.expensemanager.app-debug-45:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.expensemanager.app-main-47:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.expensemanager.app-debug-45:/layout_income_recycler_data.xml.flat",
+        "source": "com.example.expensemanager.app-main-47:/layout/income_recycler_data.xml"
+    },
+    {
+        "merged": "com.example.expensemanager.app-debug-45:/menu_navmenu.xml.flat",
+        "source": "com.example.expensemanager.app-main-47:/menu/navmenu.xml"
+    },
+    {
+        "merged": "com.example.expensemanager.app-debug-45:/drawable_expense.png.flat",
+        "source": "com.example.expensemanager.app-main-47:/drawable/expense.png"
+    },
+    {
+        "merged": "com.example.expensemanager.app-debug-45:/drawable_logout.png.flat",
+        "source": "com.example.expensemanager.app-main-47:/drawable/logout.png"
+    },
+    {
+        "merged": "com.example.expensemanager.app-debug-45:/layout_activity_home.xml.flat",
+        "source": "com.example.expensemanager.app-main-47:/layout/activity_home.xml"
+    },
+    {
+        "merged": "com.example.expensemanager.app-debug-45:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.expensemanager.app-main-47:/mipmap-hdpi/ic_launcher.webp"
+    }
+]

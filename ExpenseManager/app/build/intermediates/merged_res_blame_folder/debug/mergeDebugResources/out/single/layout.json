@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "com.example.expensemanager.app-mergeDebugResources-44:/layout/activity_main.xml",
+        "source": "com.example.expensemanager.app-main-47:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.expensemanager.app-mergeDebugResources-44:/layout/activity_registration.xml",
+        "source": "com.example.expensemanager.app-main-47:/layout/activity_registration.xml"
+    },
+    {
+        "merged": "com.example.expensemanager.app-mergeDebugResources-44:/layout/fragment_expense.xml",
+        "source": "com.example.expensemanager.app-main-47:/layout/fragment_expense.xml"
+    },
+    {
+        "merged": "com.example.expensemanager.app-mergeDebugResources-44:/layout/activity_home.xml",
+        "source": "com.example.expensemanager.app-main-47:/layout/activity_home.xml"
+    },
+    {
+        "merged": "com.example.expensemanager.app-mergeDebugResources-44:/layout/income_recycler_data.xml",
+        "source": "com.example.expensemanager.app-main-47:/layout/income_recycler_data.xml"
+    },
+    {
+        "merged": "com.example.expensemanager.app-mergeDebugResources-44:/layout/appbar_layout.xml",
+        "source": "com.example.expensemanager.app-main-47:/layout/appbar_layout.xml"
+    },
+    {
+        "merged": "com.example.expensemanager.app-mergeDebugResources-44:/layout/fragment_income.xml",
+        "source": "com.example.expensemanager.app-main-47:/layout/fragment_income.xml"
+    },
+    {
+        "merged": "com.example.expensemanager.app-mergeDebugResources-44:/layout/nav_header.xml",
+        "source": "com.example.expensemanager.app-main-47:/layout/nav_header.xml"
+    },
+    {
+        "merged": "com.example.expensemanager.app-mergeDebugResources-44:/layout/fragment_dash_board.xml",
+        "source": "com.example.expensemanager.app-main-47:/layout/fragment_dash_board.xml"
+    },
+    {
+        "merged": "com.example.expensemanager.app-mergeDebugResources-44:/layout/custom_layout_for_insertdata.xml",
+        "source": "com.example.expensemanager.app-main-47:/layout/custom_layout_for_insertdata.xml"
+    },
+    {
+        "merged": "com.example.expensemanager.app-mergeDebugResources-44:/layout/dashboart_expense.xml",
+        "source": "com.example.expensemanager.app-main-47:/layout/dashboart_expense.xml"
+    },
+    {
+        "merged": "com.example.expensemanager.app-mergeDebugResources-44:/layout/activity_reseat.xml",
+        "source": "com.example.expensemanager.app-main-47:/layout/activity_reseat.xml"
+    },
+    {
+        "merged": "com.example.expensemanager.app-mergeDebugResources-44:/layout/expense_recycler_data.xml",
+        "source": "com.example.expensemanager.app-main-47:/layout/expense_recycler_data.xml"
+    },
+    {
+        "merged": "com.example.expensemanager.app-mergeDebugResources-44:/layout/content_main.xml",
+        "source": "com.example.expensemanager.app-main-47:/layout/content_main.xml"
+    },
+    {
+        "merged": "com.example.expensemanager.app-mergeDebugResources-44:/layout/dashboard_income.xml",
+        "source": "com.example.expensemanager.app-main-47:/layout/dashboard_income.xml"
+    },
+    {
+        "merged": "com.example.expensemanager.app-mergeDebugResources-44:/layout/update_data_item.xml",
+        "source": "com.example.expensemanager.app-main-47:/layout/update_data_item.xml"
+    }
+]

@@ -1,0 +1,5 @@
+com.example.expensemanager.test.app-core-1.6.1-0 /Users/user/.gradle/caches/transforms-4/47f91b59782b80c3ba50a868668aa1cf/transformed/core-1.6.1/res
+com.example.expensemanager.test.app-androidTest-1 /Users/user/AndroidStudioProjects/ExpenseManager/app/build/generated/res/resValues/androidTest/debug
+com.example.expensemanager.test.app-mergeDebugAndroidTestResources-2 /Users/user/AndroidStudioProjects/ExpenseManager/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.example.expensemanager.test.app-mergeDebugAndroidTestResources-3 /Users/user/AndroidStudioProjects/ExpenseManager/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.example.expensemanager.test.app-debugAndroidTest-4 /Users/user/AndroidStudioProjects/ExpenseManager/app/build/intermediates/merged_res/debugAndroidTest/mergeDebugAndroidTestResources
