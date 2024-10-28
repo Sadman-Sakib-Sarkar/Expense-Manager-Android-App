@@ -30,31 +30,10 @@
         android:text="@string/find"
         android:textColor="#FFFFFF"
         android:textSize="16sp"
-        android:textStyle="bold"></Button>
+        android:textStyle="bold">
 
-    <TextView
-        android:id="@+id/infoss"
-        android:layout_width="300dp"
-        android:layout_height="50dp"
-        android:layout_gravity="center"
-        android:layout_marginTop="20dp"
-        android:gravity="center"
-        android:textColor="@color/black"
-        android:textSize="30sp">
+    </Button>
 
-    </TextView>
-
-
-    <TextView
-        android:id="@+id/text"
-        android:layout_width="350dp"
-        android:layout_height="wrap_content"
-        android:layout_gravity="center"
-        android:paddingTop="15dp"
-        android:text=""
-        android:textSize="15sp">
-
-    </TextView>
 
 
 </LinearLayout>
